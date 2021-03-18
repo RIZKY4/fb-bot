@@ -16,10 +16,9 @@ cd fb-bot
 python2 run.py
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Screenshot
 
-Please make sure to update tests as appropriate.
+![Test Image 1](img1.jpg)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
