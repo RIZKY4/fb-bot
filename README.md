@@ -1,17 +1,19 @@
 ## Installation
 
 ```bash
-pip install foobar
+pkg update && upgrade
+pkg install python2
+pkg install git
+pip2 install requests
+pip2 install bs4
+git clone https://github.com/RIZKY4/fb-bot 
 ```
 
 ## Usage
 
 ```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+cd fb-bot
+python2 run.py
 ```
 
 ## Contributing
