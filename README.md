@@ -8,7 +8,7 @@ pip2 install requests
 pip2 install bs4
 git clone https://github.com/RIZKY4/fb-bot
 cd fb-bot
-python2 run.py
+python2 run.pyc
 ```
 
 ## Screenshot
