@@ -5,7 +5,7 @@
 • Hapus Posts
 • Spam Komentar Di Beranda
 ```
-### INSTALL
+### INSTALL & RUN
 ```java
 $ pkg update && upgrade
 $ pkg install python2
