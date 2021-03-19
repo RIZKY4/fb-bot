@@ -1,3 +1,10 @@
+### Featured
+```bash
+• Remove Friend
+• Remove Photo
+• Remove Posts
+• Spam Comment In Home
+
 ## Installation & Usage
 
 ```python
