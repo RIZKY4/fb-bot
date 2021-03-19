@@ -13,7 +13,7 @@ python2 run.py
 
 ## Screenshot
 
-![Test Image 1](img1.jpg)
+![Test Image 1](bosku.jpg)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
