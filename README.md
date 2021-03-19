@@ -23,4 +23,4 @@ $ python2 run.pyc
 
 ## Social Media
 
-[![facebook](fb1.png)](https://m.youtube.com)   [![youtube](yt1.png)](https://m.youtube.com) 
+[![facebook](img/fb1.png)](https://m.youtube.com)   [![youtube](yt1.png)](https://m.youtube.com) 
