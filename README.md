@@ -1,4 +1,5 @@
 ### Featured
+```python
 • Remove Friend
 • Remove Photo
 • Remove Posts
