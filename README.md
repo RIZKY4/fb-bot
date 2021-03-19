@@ -15,5 +15,6 @@ python2 run.py
 
 ![Test Image 1](bosku.jpg)
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## Social Media
+
+[![name](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdefSb2dIh_vaC1urxmMDpfwMNmcbeSJ0xgg&usqp=CAU)](https://m.youtube.com)
