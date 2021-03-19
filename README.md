@@ -17,4 +17,4 @@ python2 run.py
 
 ## Social Media
 
-[![name](https://www.flaticon.com/svg/vstatic/svg/174/174883.svg?token=exp=1616125751~hmac=4262d077808cc297abef8673445c4595)](https://m.youtube.com)
+[![name](fb1.jpg)](https://m.youtube.com)
