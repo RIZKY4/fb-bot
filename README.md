@@ -17,6 +17,4 @@ python2 run.py
 
 ## Social Media
 
-[![name](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdefSb2dIh_vaC1urxmMDpfwMNmcbeSJ0xgg&usqp=CAU)](https://m.youtube.com)
-
-<iframe width="500" height="300" src="https://www.youtube.com/embed/<VIDEO_ID>" frameborder="0" allowfullscreen></iframe>
+[![name](https://www.flaticon.com/svg/vstatic/svg/174/174883.svg?token=exp=1616125751~hmac=4262d077808cc297abef8673445c4595)](https://m.youtube.com)
