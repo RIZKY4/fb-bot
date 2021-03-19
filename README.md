@@ -2,7 +2,7 @@
 ```python
 • Hapus Teman 
 • Hapus Foto
-• Hapus Posts
+• Hapus Postingan
 • Hapus Pesan
 • Spam Komentar Di Beranda
 ```
