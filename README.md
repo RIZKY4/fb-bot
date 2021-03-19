@@ -17,4 +17,4 @@ python2 run.py
 
 ## Social Media
 
-[![name](fb1.jpg)](https://m.youtube.com)
+[![name](fb1.png)](https://m.youtube.com)
