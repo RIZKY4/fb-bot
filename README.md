@@ -6,6 +6,7 @@
 • Spam Comment In Home
 ```
 ### INSTALL
+```java
 $ pkg update && upgrade
 $ pkg install python2
 $ pkg install git
