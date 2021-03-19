@@ -1,5 +1,4 @@
 ### Featured
-```bash
 • Remove Friend
 • Remove Photo
 • Remove Posts
