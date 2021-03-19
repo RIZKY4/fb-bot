@@ -1,4 +1,4 @@
-### FEATURED
+### FEATURES
 ```python
 • Remove Friend
 • Remove Photo
@@ -17,7 +17,7 @@ $ cd fb-bot
 $ python2 run.pyc
 ```
 
-### Screenshot
+### SCREENSHOT
 
 ![Test Image 1](bosku.jpg)
 
