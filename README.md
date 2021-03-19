@@ -19,8 +19,8 @@ $ python2 run.pyc
 
 ### SCREENSHOT
 
-![Test Image 1](img/bosku.jpg)
+![screenshot](img/bosku.jpg)
 
 ## Social Media
 
-[![facebook](img/fb1.png)](https://m.youtube.com)   [![youtube](img/yt1.png)](https://m.youtube.com) 
+[![facebook](img/fb1.png)](https://m.facebook.com/Rizky.Rastaf)   [![youtube](img/yt1.png)](https://m.youtube.com/channel/UCSD-ezikDEKyMT2o-KyaKKA) 
