@@ -1,9 +1,9 @@
 ### FEATURES
 ```python
-• Remove Friend
-• Remove Photo
-• Remove Posts
-• Spam Comment In Home
+• Hapus Teman 
+• Hapus Foto
+• Hapus Posts
+• Spam Komentar Di Beranda
 ```
 ### INSTALL
 ```java
